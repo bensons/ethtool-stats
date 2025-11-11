@@ -1,4 +1,4 @@
-module github.com/lambda/ethtool-stats
+module github.com/bensons/ethtool-stats
 
 go 1.25.4
 
