@@ -1,0 +1,44 @@
+# Binaries
+ethtool-stats
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output files
+*.out
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# AI coding assistant files and folders
+.augment/
+.claude/
+.codex/
+.cursor/
+.aider*
+.copilot/
+.tabnine/
+.codeium/
+.continue/
+AGENT.md
+CLAUDE.md
+CURSOR.md
+COPILOT.md
+.ai/
+.aiconfig/
+.github-copilot/
+~/
