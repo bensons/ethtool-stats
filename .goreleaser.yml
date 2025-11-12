@@ -52,7 +52,7 @@ changelog:
 
 release:
   github:
-    owner: lambda
+    owner: bensons
     name: ethtool-stats
   draft: false
   prerelease: auto
